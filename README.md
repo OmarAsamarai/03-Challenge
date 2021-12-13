@@ -1,4 +1,4 @@
-# Random Pasword Generator
+# Random Password Generator
 ## <li> According to the intructor, the obligation was to prepare a randomlly pasword generator.
 
 ## according to tht acceptance criteria I started with the propts to ask the person the assigned questions:
